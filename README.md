@@ -1,6 +1,7 @@
 # Airbnb Pricing Prediction
 ### Jacqueline Urenda
 ### Renetta Nelson
+### Michael Nguyen
 ### July 3, 2023
 
 ## Objective
