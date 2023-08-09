@@ -10,7 +10,7 @@
 
 ## Data Sources
 
-- Listings
+- Listings (Note: this dataset was too large to upload to GitHub. Dataset can be accessed through this link https://drive.google.com/file/d/1gGo0dX07-SVReIo_BWyF4CgvalGULfaq/view?usp=share_link) 
 - Calendar
 - San Diego Weather
 
