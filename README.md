@@ -2,7 +2,7 @@
 ### Jacqueline Urenda
 ### Renetta Nelson
 ### Michael Nguyen
-### July 3, 2023
+### August 14, 2023
 
 ## Objective
 
@@ -37,10 +37,13 @@
 
 ## Required Libraries
 
-
-
-- Pandas
-
-
+- pandas
+- numpy
+- random
+- xgboost
+- sklearn.tree
+- sklearn.metrics
+- sklearn.ensemble
+- matplotlib
 
 
