@@ -24,7 +24,6 @@
 
 - Extract Data: Read CSV Files 
 - Data Transformation/ Pre-Processing
-- Load Data into SQL Table
 - Data Analysis: Exploratory / Statistical
 - Data Splitting: Training / Testing
 - Models: Regression and Prediction
